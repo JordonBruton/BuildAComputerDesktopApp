@@ -1,0 +1,16 @@
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\BuildAComputerDesktopApp.exe.config
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\BuildAComputerDesktopApp.exe
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\BuildAComputerDesktopApp.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.csproj.AssemblyReference.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\App.g.cs
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp_MarkupCompile.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp_MarkupCompile.lref
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\MainWindow.baml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.g.resources
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.Properties.Resources.resources
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.csproj.GenerateResource.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.exe
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\App.baml
