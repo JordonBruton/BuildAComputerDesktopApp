@@ -14,3 +14,14 @@ C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.exe
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.pdb
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\App.baml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\ControlzEx.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\MahApps.Metro.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\ControlzEx.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\ControlzEx.xml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\MahApps.Metro.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\MahApps.Metro.xml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.csproj.CopyComplete
