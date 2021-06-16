@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\BuildAComputerDesktopApp",
-    "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp"
+    "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp",
+    "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp\\Views"
   ],
-  "SelectedNode": "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp\\App.xaml",
+  "SelectedNode": "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp\\Views\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

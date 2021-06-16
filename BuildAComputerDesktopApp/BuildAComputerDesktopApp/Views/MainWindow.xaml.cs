@@ -26,5 +26,10 @@ namespace BuildAComputerDesktopApp
         {
             InitializeComponent();
         }
+
+        private void Button_Click()
+        {
+
+        }
     }
 }

@@ -7,12 +7,12 @@
         xmlns:local="clr-namespace:BuildAComputerDesktopApp"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="Build A Computer Main Window" Height="450" Width="600">
+        Title="Build A Computer Main Window" Height="350" Width="600">
     <Grid
         Background="DarkSlateGray">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
@@ -39,9 +39,10 @@
             CornerRadius="2"
             Grid.Row="1"
             VerticalAlignment="Top"
-            HorizontalAlignment="Center"
-            Margin="20,35,0,0">
+            HorizontalAlignment="Right"
+            Margin="0,35,10,0">
             <Button
+                Command="{Binding }"
                 Content="Build Your Own Computer"    
                 Background="DarkGray"
                 FontSize="20"
@@ -54,11 +55,12 @@
             Grid.Column="1"
             Grid.Row="1"
             VerticalAlignment="Top"
-            HorizontalAlignment="Center"
-            Margin="0,35,20,0">
+            HorizontalAlignment="Left"
+            Margin="10,35,20,0">
             <Button
+                Command="{Binding}"
+                Content="Generate A Computer"
                 Background="DarkGray"
-                Content="Build Your Own Computer"
                 FontSize="20"
                 Padding="5,5,5,5"/>
         </Border>
@@ -70,10 +72,11 @@
             Grid.Row="2"
             HorizontalAlignment="Center"
             Grid.ColumnSpan="2"
-            Margin="0,0,0,15">
+            Margin="0,50,0,15">
             <Button
-                Background="DarkGray"
+                Command="{Binding}"
                 Content="Checkout"
+                Background="DarkGray"
                 FontSize="20"
                 Padding="5,5,5,5"/>
         </Border>
