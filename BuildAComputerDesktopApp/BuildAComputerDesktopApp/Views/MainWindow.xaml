@@ -13,7 +13,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/> 
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -42,7 +42,7 @@
             HorizontalAlignment="Right"
             Margin="0,35,10,0">
             <Button
-                Command="{Binding }"
+                Command="{Binding}"
                 Content="Build Your Own Computer"    
                 Background="DarkGray"
                 FontSize="20"
