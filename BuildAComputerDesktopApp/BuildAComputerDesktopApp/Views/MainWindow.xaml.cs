@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using MahApps.Metro.Controls;
+using BuildAComputerDesktopApp.Views;
 
 namespace BuildAComputerDesktopApp
 {
@@ -27,9 +28,18 @@ namespace BuildAComputerDesktopApp
             InitializeComponent();
         }
 
-        private void Button_Click()
+        private void BuildYourOwnPCWind(object sender, RoutedEventArgs e)
         {
+            BuildYourOwnComputerWindow BuildWind = new BuildYourOwnComputerWindow();
 
+            BuildWind.ShowDialog();
+        }
+
+        private void GenerateComputerWind(object sender, RoutedEventArgs e)
+        {
+            GenerateAComputerWindow GenWind = new GenerateAComputerWindow();
+
+            GenWind.ShowDialog();
         }
     }
 }

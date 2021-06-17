@@ -23,7 +23,7 @@
             Grid.ColumnSpan="2"
             CornerRadius="3"
             BorderThickness="2"
-            BorderBrush="Black"
+            BorderBrush="AliceBlue"
             Grid.Row="0"
             VerticalAlignment="Top"
             HorizontalAlignment="Center"
@@ -42,7 +42,7 @@
             HorizontalAlignment="Right"
             Margin="0,35,10,0">
             <Button
-                Command="{Binding}"
+                Click="BuildYourOwnPCWind" 
                 Content="Build Your Own Computer"    
                 Background="DarkGray"
                 FontSize="20"
@@ -58,7 +58,7 @@
             HorizontalAlignment="Left"
             Margin="10,35,20,0">
             <Button
-                Command="{Binding}"
+                Click="GenerateComputerWind"
                 Content="Generate A Computer"
                 Background="DarkGray"
                 FontSize="20"

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\App.xaml
-11892971807
+3-322230073
 
-51470816430
+8-348827218
 20-874401359
-Views\MainWindow.xaml;
+Views\BuildYourOwnComputerWindow.xaml;Views\GenerateAComputerWindow.xaml;Views\MainWindow.xaml;
 
 False
 

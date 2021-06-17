@@ -3,6 +3,7 @@
     "",
     "\\BuildAComputerDesktopApp",
     "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp",
+    "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp\\ViewModels",
     "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp\\Views"
   ],
   "SelectedNode": "\\BuildAComputerDesktopApp\\BuildAComputerDesktopApp\\Views\\MainWindow.xaml",

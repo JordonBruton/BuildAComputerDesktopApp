@@ -25,3 +25,7 @@ C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\de\MahApps.Metro.resources.dll
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.csproj.CopyComplete
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\BuildYourOwnComputerWindow.g.cs
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\GenerateAComputerWindow.g.cs
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\BuildYourOwnComputerWindow.baml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\GenerateAComputerWindow.baml
