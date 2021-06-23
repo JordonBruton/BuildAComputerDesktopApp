@@ -1,0 +1,5 @@
+PowerSupply(name(PRIM), brand, maxPower, fans, energyEfficiency, weight, price);
+MotherBoard(name(PRIM), brand, socket, chipset, memoryCap, memoryStandard, usbPorts, PCIthree, price);
+Memory(name(PRIM), brand, capacity, speed, timing, cas, price);
+CPU(name(PRIM), brand, gen, socket, core, thread, speed, lThree, tdp, price, series, turbo, lTwo);
+GPU(gpu(PRIM), memory, memoryType, memoryInterface);

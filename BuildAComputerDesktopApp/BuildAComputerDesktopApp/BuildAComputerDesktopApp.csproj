@@ -84,6 +84,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="PcPartsDatabaseClass.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
     <Compile Include="Views\BuildYourOwnComputerWindow.xaml.cs">
       <DependentUpon>BuildYourOwnComputerWindow.xaml</DependentUpon>
