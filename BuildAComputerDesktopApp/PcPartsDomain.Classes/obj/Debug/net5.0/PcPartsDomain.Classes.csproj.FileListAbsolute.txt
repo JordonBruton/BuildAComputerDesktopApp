@@ -1,0 +1,15 @@
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\bin\Debug\net5.0\PcPartsDomain.Classes.deps.json
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\bin\Debug\net5.0\PcPartsDomain.Classes.runtimeconfig.json
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\bin\Debug\net5.0\PcPartsDomain.Classes.runtimeconfig.dev.json
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\bin\Debug\net5.0\PcPartsDomain.Classes.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\bin\Debug\net5.0\ref\PcPartsDomain.Classes.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\bin\Debug\net5.0\PcPartsDomain.Classes.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.csproj.AssemblyReference.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.AssemblyInfoInputs.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.AssemblyInfo.cs
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\ref\PcPartsDomain.Classes.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.pdb
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\PcPartsDomain.Classes\obj\Debug\net5.0\PcPartsDomain.Classes.genruntimeconfig.cache

@@ -29,3 +29,11 @@ C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\GenerateAComputerWindow.g.cs
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\BuildYourOwnComputerWindow.baml
 C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\Views\GenerateAComputerWindow.baml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\x86\sqlite3.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\x64\sqlite3.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp_Content.g.cs
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jordon.bruton\Desktop\BuildAComputerDesktopApp\BuildAComputerDesktopApp\BuildAComputerDesktopApp\obj\Debug\BuildAComputerDesktopApp.Migrations.Initial.resources

@@ -15,7 +15,7 @@ namespace BuildAComputerDesktopApp.ViewModels
 
 
         #endregion
-
+         
         #region ICommands
         
         #endregion
@@ -23,4 +23,4 @@ namespace BuildAComputerDesktopApp.ViewModels
         #region Methods
         #endregion
     }
-}
+} 
